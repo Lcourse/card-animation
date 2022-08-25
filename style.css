@@ -6,7 +6,7 @@
 
 body {
   min-height: 100vh;
-  background: #10536d;
+  background: #030303;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -34,7 +34,7 @@ body {
 
 .container .card .face.face1 {
   position: relative;
-  background: #2e2d2c;
+  background: #d4328b;
   display: flex;
   justify-content: center;
   align-items: center;
